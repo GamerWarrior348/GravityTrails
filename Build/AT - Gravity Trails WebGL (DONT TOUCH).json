@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "AT - Gravity Trails",
+"productVersion": "0.1",
+"dataUrl": "AT - Gravity Trails WebGL (DONT TOUCH).data.unityweb",
+"wasmCodeUrl": "AT - Gravity Trails WebGL (DONT TOUCH).wasm.code.unityweb",
+"wasmFrameworkUrl": "AT - Gravity Trails WebGL (DONT TOUCH).wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.39f1"
+}
